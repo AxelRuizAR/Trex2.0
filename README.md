@@ -1,2 +1,1 @@
-# Trex2.0
-VideGame by: Axel 
+# Juegos-compatibles-con-dispositivos
